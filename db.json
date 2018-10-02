@@ -1,4 +1,15 @@
 {
+  "karthik1": {
+    "filename":["test", "abc"],
+    "confidence":["0.66", "0.77"]
+  },
+  "karthik2": {
+    "result_data":{
+      "abc":"0.555",
+      "new_image":"0.666",
+      "test":"0.777"
+    }
+  },
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
