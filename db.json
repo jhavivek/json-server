@@ -10,6 +10,14 @@
       "test":"0.777"
     }
   },
+  "karthik3": {
+    "batch_id": 4, 
+    "images": [
+      {"file_name": "031_income-invoice.png", "confidence": "0.4887"}, 
+      {"file_name": "32e09-invoice.jpg", "confidence": "0.3326"}, 
+      {"file_name": "55d386f0a5655d10a6a9208ab274b941_144.jpg", "confidence": "0.8733"}
+    ]
+  },
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
