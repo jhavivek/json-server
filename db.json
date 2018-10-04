@@ -17,17 +17,5 @@
       {"file_name": "32e09-invoice.jpg", "confidence": "0.3326"}, 
       {"file_name": "55d386f0a5655d10a6a9208ab274b941_144.jpg", "confidence": "0.8733"}
     ]
-  },
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
   }
 }
